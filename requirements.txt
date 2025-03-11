@@ -1,5 +1,7 @@
-streamlit==1.25.0
-NumPy
+streamlit
+numpy
 scikit-learn
 pandas
+pillow
+pickle5
 
