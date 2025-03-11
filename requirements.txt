@@ -1,5 +1,5 @@
-streamlit
-numpy
+streamlit==1.25.0
+NumPy
 scikit-learn
 pandas
-pickle5
+
