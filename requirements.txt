@@ -2,6 +2,7 @@ streamlit
 numpy
 scikit-learn
 pandas
-pillow
+pillow==9.0.1
 pickle5
+
 
